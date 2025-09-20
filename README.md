@@ -12,7 +12,3 @@ A simple web app that allows users to input a food name and fetch a random food 
 <img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/70e77188-17ad-4de9-9abf-914d401eed1e" />
 <img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/e0137be9-ca5d-4d4d-aeaa-8a786aa0095e" />
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/food-image-finder.git
